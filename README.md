@@ -8,14 +8,14 @@ compile code:
 ```
 
 chmod +x ./compile
-./compile m_lisp2
+./compile mLisp_2
 
 ```
 
-run the code:
+run code:
 
 ```
 
-./mini_lisp2 <<< "(mini-lisp code)"
+./mLisp_2 <<< "(mini-lisp code)"
 
 ```
