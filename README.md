@@ -16,6 +16,6 @@ run code:
 
 ```
 
-./mLisp_2 <<< "(mini-lisp code)"
+./mLisp_2 < "(mini-lisp code)"
 
 ```
